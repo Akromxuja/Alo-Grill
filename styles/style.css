@@ -219,6 +219,7 @@ body{
     color: #FFF;
 }
 .footer__block{
+    width: 100%;
     display: flex;
     align-items: stretch;
     justify-content: space-around;
